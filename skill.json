@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-genpark-arbitrage",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark statistical pairs cointegration and mean-reverting spread trading engine with OLS beta and Ornstein-Uhlenbeck half-life modeling.",
+  "tools": [
+    {
+      "name": "fit_pairs_model",
+      "description": "Compute hedge ratio, residual spread Z-score, and mean-reversion trading signal."
+    }
+  ]
+}
